@@ -1,0 +1,29 @@
+display: flex
+-unlocks
+	flex-direction
+	align-items
+	justify-content
+
+flex-direction
+	default row
+can change to column to make the same as block
+
+align-items
+	default stretch vertical
+main property is center
+
+justify-content
+	aligns horizontally
+center,flex-end
+space-around
+space-between
+
+
+justify-content/align-items is crucial
+
+	default aligns center horizontal and vertical
+
+adding flex-direction?
+	if set to column, other two are swapped hor and vert
+
+parent controls where the children are
